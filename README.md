@@ -1,4 +1,6 @@
 # new-app
 application
-Hi New application
-I wish to develope an app for LIWA.
+
+Hi New application,
+
+I wish to develop an app for LIWA.
